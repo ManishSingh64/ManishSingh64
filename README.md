@@ -7,8 +7,8 @@
 <br>
 
 <div markdown="1">
-  <img align="left" src="https://komarev.com/ghpvc/?username=manishsingh64&label=Profile%20views&color=0e75b6&style=flat" alt="ManishSingh64" />
-  <a align="left" href="https://wakatime.com/@78bbb063-87b5-43fb-8c94-ae8005ba02f6"><img src="https://wakatime.com/badge/user/78bbb063-87b5-43fb-8c94-ae8005ba02f6.svg" alt="ManishSingh64" /></a>
+  <img align="left" src="https://komarev.com/ghpvc/?username=manishsingh64&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a align="left" href="https://wakatime.com/@78bbb063-87b5-43fb-8c94-ae8005ba02f6"><img src="https://wakatime.com/badge/user/78bbb063-87b5-43fb-8c94-ae8005ba02f6.svg" alt="Waka Time" /></a>
 </div>
 
 <br>
