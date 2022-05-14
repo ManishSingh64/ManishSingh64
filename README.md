@@ -50,9 +50,9 @@
     <img align="left" width="25" alt="HackerRank" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
   </a> -->
   
-<!--   <a href="https://www.leetcode.com/ManishSingh64" target="_blank">
+  <a href="https://www.leetcode.com/ManishSingh64" target="_blank">
     <img align="left" width="25" alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
-  </a> -->
+  </a>
   
 <!--   <a href="https://www.stackoverflow.com/users/13937565" target="_blank">
     <img align="left" width="25" alt="Stack Overflow" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" />
@@ -107,6 +107,7 @@
 
 <p>
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Visual Studio Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Pycharm" src="https://www.svgrepo.com/show/354237/pycharm.svg" /> -->
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="HTML5"  src="https://www.svgrepo.com/show/183637/html5.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -120,7 +121,7 @@
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
-<!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg" /> -->
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg" /> -->
