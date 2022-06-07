@@ -113,7 +113,7 @@
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Sass"  src="https://www.svgrepo.com/show/349502/sass.svg" /> -->
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="React"  src="https://www.svgrepo.com/show/354259/react.svg" /> -->
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="React"  src="https://www.svgrepo.com/show/354259/react.svg" />
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="GraphQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> -->
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Node.js"  src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
