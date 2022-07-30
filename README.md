@@ -127,11 +127,11 @@
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg" /> -->
 <!--   <img align="left" height="50px" width="50px" style="padding-right:10px;" alt="Docker" src="https://www.svgrepo.com/show/354926/docker.svg" />  -->
 <!--     <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />  -->
-<!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="ExpressJs" src="https://www.svgrepo.com/show/373574/ejs.svg" />  -->
+     <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="ExpressJs" src="https://www.svgrepo.com/show/373574/ejs.svg" /> 
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Java" src="https://www.svgrepo.com/show/184143/java.svg" /> 
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Linux" src="https://img.icons8.com/color/344/linux--v1.png" /> -->
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postgresql" src="https://www.svgrepo.com/show/354200/postgresql.svg" />  -->
-<!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />  -->
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  -->
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> -->
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> -->
