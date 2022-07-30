@@ -134,7 +134,7 @@
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  -->
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> -->
-<!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> -->
+   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> 
 </p>
 
 <br><br>
