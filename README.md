@@ -1,7 +1,7 @@
 
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
-<h1 align="left">Hi 👋, I'm Manish Singh</h1>
+<h1 align="left">Hi 👋, I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h1>
 <h3 align="left">A passionate developer from India</h3>
 
 <br>
