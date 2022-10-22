@@ -19,6 +19,7 @@
     <img src="https://komarev.com/ghpvc/?username=ManishSingh64">
 </a>
 <a href="https://github.com/ManishSingh64?tab=followers"><img src="https://img.shields.io/github/followers/ManishSingh64?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://wakatime.com/@78bbb063-87b5-43fb-8c94-ae8005ba02f6"><img src="https://wakatime.com/badge/user/78bbb063-87b5-43fb-8c94-ae8005ba02f6.svg" alt="Total time coded since Mar 26 2022" /></a>
 
 </br>
 </br>
